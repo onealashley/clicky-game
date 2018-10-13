@@ -1,0 +1,63 @@
+[
+    {
+        "letter": "A",
+        "clicked": "false",
+        "image": "/assets/images/chicken.jpg"
+        
+    },
+    {
+        "letter": "B",
+        "clicked": "false",
+        "image": "/assets/images/cow.jpg"
+    },
+    {
+        "letter": "C",
+        "clicked": "false",
+        "image": "/assets/images/dog.jpg"
+    },
+    {
+        "letter": "D",
+        "clicked": "false",
+        "image": "/assets/images/donkey.jpg"
+    },
+    {
+        "letter": "E",
+        "clicked": "false",
+        "image": "/assets/images/duck.jpg"
+    },
+    {
+        "letter": "f",
+        "clicked": "false",
+        "image": "/assets/images/giraffe.jpg"
+    },
+    {
+        "letter": "g",
+        "clicked": "false",
+        "image": "/assets/images/goat.jpg"
+    },
+    {
+        "letter": "h",
+        "clicked": "false",
+        "image": "/assets/images/horse.jpg"
+    },
+    {
+        "letter": "i",
+        "clicked": "false",
+        "image": "/assets/images/monkey.jpg"
+    },
+    {
+        "letter": "j",
+        "clicked": "false",
+        "image": "/assets/images/penguin.jpg"
+    },
+    {
+        "letter": "k",
+        "clicked": "false",
+        "image": "/assets/images/sheep.jpg"
+    },
+    {
+        "letter": "l",
+        "clicked": "false",
+        "image": "/assets/images/zeebra.jpg"
+    }
+]
